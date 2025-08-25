@@ -2,7 +2,7 @@ import React from "react";
 import logo from "../assets/logo.png";
 import { CiBitcoin } from "react-icons/ci";
 
-const Header = () => {
+const Header = ({ coin }) => {
   return (
     <div className="flex justify-between items-center">
       <div>
@@ -24,7 +24,7 @@ const Header = () => {
           </li>
         </ul>
         <a className="bg-white border-2 border-gray-100 px-4 py-5 rounded-xl cursor-pointer font-bold flex items-center gap-2">
-          Coin <CiBitcoin className="text-2xl text-amber-500" />
+          {coin} Coin <CiBitcoin className="text-2xl text-amber-500" />
         </a>
       </div>
     </div>

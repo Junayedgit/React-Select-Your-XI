@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "banner_image": "https://example.com/images/virat-banner.jpg",
+    "profile_image": "https://example.com/images/virat-profile.jpg",
+    "name": "virat kohli",
+    "country_name": "india",
+    "playing_position": "batsman",
+    "batting_hand": "right hand batsman",
+    "price": 1500000,
+    "button": "choose player"
+  },
+  {
+    "id": 2,
+    "banner_image": "https://example.com/images/ben-banner.jpg",
+    "profile_image": "https://example.com/images/ben-profile.jpg",
+    "name": "ben stokes",
+    "country_name": "england",
+    "playing_position": "allrounder",
+    "batting_hand": "left hand batsman",
+    "price": 1300000,
+    "button": "choose player"
+  },
+  {
+    "id": 3,
+    "banner_image": "https://example.com/images/warner-banner.jpg",
+    "profile_image": "https://example.com/images/warner-profile.jpg",
+    "name": "david warner",
+    "country_name": "australia",
+    "playing_position": "batsman",
+    "batting_hand": "left hand batsman",
+    "price": 1200000,
+    "button": "choose player"
+  },
+  {
+    "id": 4,
+    "banner_image": "https://example.com/images/rashid-banner.jpg",
+    "profile_image": "https://example.com/images/rashid-profile.jpg",
+    "name": "rashid khan",
+    "country_name": "afghanistan",
+    "playing_position": "bowler",
+    "batting_hand": "right hand batsman",
+    "price": 1100000,
+    "button": "choose player"
+  },
+  {
+    "id": 5,
+    "banner_image": "https://example.com/images/jos-banner.jpg",
+    "profile_image": "https://example.com/images/jos-profile.jpg",
+    "name": "jos buttler",
+    "country_name": "england",
+    "playing_position": "wicketkeeper",
+    "batting_hand": "right hand batsman",
+    "price": 1250000,
+    "button": "choose player"
+  },
+  {
+    "id": 6,
+    "banner_image": "https://example.com/images/shakib-banner.jpg",
+    "profile_image": "https://example.com/images/shakib-profile.jpg",
+    "name": "shakib al hasan",
+    "country_name": "bangladesh",
+    "playing_position": "allrounder",
+    "batting_hand": "left hand batsman",
+    "price": 1350000,
+    "button": "choose player"
+  },
+  {
+    "id": 7,
+    "banner_image": "https://example.com/images/rohit-banner.jpg",
+    "profile_image": "https://example.com/images/rohit-profile.jpg",
+    "name": "rohit sharma",
+    "country_name": "india",
+    "playing_position": "batsman",
+    "batting_hand": "right hand batsman",
+    "price": 1400000,
+    "button": "choose player"
+  },
+  {
+    "id": 8,
+    "banner_image": "https://example.com/images/kane-banner.jpg",
+    "profile_image": "https://example.com/images/kane-profile.jpg",
+    "name": "kane williamson",
+    "country_name": "new zealand",
+    "playing_position": "batsman",
+    "batting_hand": "right hand batsman",
+    "price": 1250000,
+    "button": "choose player"
+  },
+  {
+    "id": 9,
+    "banner_image": "https://example.com/images/bumrah-banner.jpg",
+    "profile_image": "https://example.com/images/bumrah-profile.jpg",
+    "name": "jasprit bumrah",
+    "country_name": "india",
+    "playing_position": "bowler",
+    "batting_hand": "right hand batsman",
+    "price": 1150000,
+    "button": "choose player"
+  },
+  {
+    "id": 10,
+    "banner_image": "https://example.com/images/maxwell-banner.jpg",
+    "profile_image": "https://example.com/images/maxwell-profile.jpg",
+    "name": "glenn maxwell",
+    "country_name": "australia",
+    "playing_position": "allrounder",
+    "batting_hand": "right hand batsman",
+    "price": 1280000,
+    "button": "choose player"
+  }
+]

@@ -20,7 +20,7 @@ const Players = ({ player }) => {
         <p>{name}</p>
       </div>
       <div className="flex justify-between items-center py-2">
-        <p className="flex items-center gap-2">
+        <p className="flex items-center gap-2 font-bold">
           <FaRegFlag />
           {country_name}
         </p>
@@ -28,7 +28,7 @@ const Players = ({ player }) => {
       </div>
 
       <div className="flex justify-between py-2">
-        <p>{handed}</p>
+        <p className="font-bold">{handed}</p>
         <p className="text-gray-400">{handed}</p>
       </div>
       <div className="flex justify-between items-center py-2">

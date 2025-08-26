@@ -11,7 +11,7 @@ const Available = () => {
       <div className="flex justify-center border border-gray-300 rounded-xl">
         <button
           onClick={() => setActiveTab("available")}
-          className={` py-4 px-8 rounded-l-xl font-bold
+          className={` cursor-pointer py-4 px-8 rounded-l-xl font-bold
             ${
               activeTab === "available" ? "bg-lime-500 text-white" : "bg-white"
             }`}
@@ -21,7 +21,7 @@ const Available = () => {
 
         <button
           onClick={() => setActiveTab("selected")}
-          className={` py-4 px-8 rounded-r-xl font-bold
+          className={` cursor-pointer py-4 px-8 rounded-r-xl font-bold
             ${
               activeTab === "selected" ? "bg-lime-500 text-white" : "bg-white"
             }`}

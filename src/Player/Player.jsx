@@ -15,8 +15,8 @@ const Players = ({ player }) => {
   return (
     <div className="border-2 border-gray-300 rounded-2xl p-6">
       <img className="rounded-2xl " src={banner_image} alt="" />
-      <div className="flex items-center gap-2 py-2">
-        <img className="w-10 pt-4" src={profile_image} alt="" />
+      <div className="flex items-center gap-2 py-4">
+        <img className="w-10" src={profile_image} alt="" />
         <p>{name}</p>
       </div>
       <div className="flex justify-between items-center py-2">

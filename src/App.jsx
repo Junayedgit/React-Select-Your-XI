@@ -3,6 +3,7 @@ import "./App.css";
 import Banner from "./Banner/Banner";
 import Header from "./Header/Header";
 import Players from "./Players/Players";
+import Available from "./Available/Available";
 
 function App() {
   const [coin, setCoin] = useState(0);
@@ -16,6 +17,7 @@ function App() {
     <>
       <Header coin={coin}></Header>
       <Banner handleCollectCoin={handleCollectCoin}></Banner>
+      <Available></Available>
       <Players></Players>
     </>
   );

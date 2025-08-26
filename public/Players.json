@@ -108,5 +108,126 @@
     "banner_image": "https://picsum.photos/600/300",
     "profile_image": "https://cdn-icons-png.flaticon.com/512/3135/3135712.png",
     "button": "choose player"
+  },
+  {
+    "id": 11,
+    "name": "andre russell",
+    "country_name": "west indies",
+    "playing_position": "allrounder",
+    "handed": "right-hand batsman",
+    "player_price": 1500000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/921/921071.png",
+    "button": "choose player"
+  },
+  {
+    "id": 12,
+    "name": "babar azam",
+    "country_name": "pakistan",
+    "playing_position": "batsman",
+    "handed": "right-hand batsman",
+    "player_price": 1700000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/9131/9131529.png",
+    "button": "choose player"
+  },
+  {
+    "id": 13,
+    "name": "mitchell starc",
+    "country_name": "australia",
+    "playing_position": "bowler",
+    "handed": "left-hand batsman",
+    "player_price": 1600000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+    "button": "choose player"
+  },
+  {
+    "id": 14,
+    "name": "trent boult",
+    "country_name": "new zealand",
+    "playing_position": "bowler",
+    "handed": "left-hand batsman",
+    "player_price": 1450000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/2922/2922659.png",
+    "button": "choose player"
+  },
+  {
+    "id": 15,
+    "name": "fakhar zaman",
+    "country_name": "pakistan",
+    "playing_position": "batsman",
+    "handed": "left-hand batsman",
+    "player_price": 1350000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/2922/2922561.png",
+    "button": "choose player"
+  },
+  {
+    "id": 16,
+    "name": "quinton de kock",
+    "country_name": "south africa",
+    "playing_position": "wicketkeeper",
+    "handed": "left-hand batsman",
+    "player_price": 1550000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/9131/9131510.png",
+    "button": "choose player"
+  },
+  {
+    "id": 17,
+    "name": "hardik pandya",
+    "country_name": "india",
+    "playing_position": "allrounder",
+    "handed": "right-hand batsman",
+    "player_price": 1500000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/2922/2922676.png",
+    "button": "choose player"
+  },
+  {
+    "id": 18,
+    "name": "abdul samad",
+    "country_name": "india",
+    "playing_position": "batsman",
+    "handed": "right-hand batsman",
+    "player_price": 1000000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/9131/9131546.png",
+    "button": "choose player"
+  },
+  {
+    "id": 19,
+    "name": "shaheen afridi",
+    "country_name": "pakistan",
+    "playing_position": "bowler",
+    "handed": "left-hand batsman",
+    "player_price": 1400000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/2922/2922554.png",
+    "button": "choose player"
+  },
+  {
+    "id": 20,
+    "name": "mahmudullah riyad",
+    "country_name": "bangladesh",
+    "playing_position": "allrounder",
+    "handed": "right-hand batsman",
+    "player_price": 1200000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/921/921074.png",
+    "button": "choose player"
+  },
+  {
+    "id": 21,
+    "name": "shakib al hasan",
+    "country_name": "bangladesh",
+    "playing_position": "allrounder",
+    "handed": "left-hand batsman",
+    "player_price": 1800000,
+    "banner_image": "https://picsum.photos/600/300",
+    "profile_image": "https://cdn-icons-png.flaticon.com/512/2922/2922510.png",
+    "button": "choose player"
   }
 ]

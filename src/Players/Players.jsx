@@ -9,7 +9,7 @@ const Players = () => {
       .then((data) => setPlayers(data));
   }, []);
   return (
-    <div className="grid grid-cols-3 gap-6">
+    <div className="grid grid-cols-3  rounded-2xl gap-6">
       {players.map((player) => (
         <Player key={player.id} player={player}></Player>
       ))}
